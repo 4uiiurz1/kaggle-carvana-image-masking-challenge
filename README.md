@@ -12,7 +12,7 @@ python model_unet12_1x.py
 python model_unet14_0.5x.py
 ```
 
-## Predictions averaging
+## Average the predictions
 To average the predicted masks, run:
 
 ```
