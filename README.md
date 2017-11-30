@@ -15,4 +15,6 @@ python model_unet14_0.5x.py
 ## Predictions averaging
 To average the predicted masks, run:
 
-`python averaging.py`
+```
+python averaging.py
+```
